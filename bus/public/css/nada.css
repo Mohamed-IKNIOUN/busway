@@ -1,0 +1,28 @@
+h1 {
+    background-color: rebeccapurple;
+}
+
+
+/* les messages */
+
+.message {
+    padding: 5px 10px;
+    width: 100%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.success {
+    background-color: #D4EDDA;
+    color: #155724;
+}
+
+.error {
+    background-color: #F8D7DA;
+    color: #721C24;
+}
+
+.warning {
+    background-color: #FFF3CD;
+    color: #856404;
+}
